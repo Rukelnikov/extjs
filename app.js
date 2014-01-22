@@ -6,7 +6,7 @@ Ext.application({
             items: [
                 {
                     title: 'Hello ExtJs',
-                    html : 'Hello WORLD! - DvLoop'
+                    html : 'Hello WORLD! - Rukelnikov'
                 }
             ]
         });
